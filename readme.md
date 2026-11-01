@@ -1,4 +1,4 @@
-# Multipurpose Anti-Tamper Box
+# Multipurpose Anti-Tampering Box
 
 A low-cost Arduino UNO R3 prototype that combines **RFID-based access control**, **lid tamper detection**, and **temperature and humidity monitoring** in a single storage box.
 
